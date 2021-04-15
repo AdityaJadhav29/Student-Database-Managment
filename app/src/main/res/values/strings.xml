@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">StudentDatabase</string>
+    <string name="usr">Enter Username</string>
+    <string name="lgn">Enter Password</string>
+    <string name="lgnn">Login</string>
+    <string name="sign">Sign Up</string>
+    <string name="signU">Enter New UserName</string>
+    <string name="signP">Enter New PassWord</string>
+    <string name="sub">Submit</string>
+    <string name="vall">View All</string>
+    <string name="srch">Search Student By:</string>
+    <string name="nme">Name</string>
+    <string name="id">Roll Number</string>
+    <string name="cty">City</string>
+    <string name="src">Search</string>
+    <string name="bk">Back</string>
+    <string name="add">Add Student Data</string>
+    <string name="name">Enter Student Name</string>
+    <string name="rll">Enter Student Roll Number</string>
+    <string name="city">Enter Student City</string>
+    <string name="mrks">Enter Student Marks</string>
+</resources>
